@@ -1,3 +1,0 @@
-/Users/oleg_sfn/CLionProjects/Range/cmake-build-debug/CMakeFiles/Range.dir
-/Users/oleg_sfn/CLionProjects/Range/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/oleg_sfn/CLionProjects/Range/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/Users/oleg_sfn/Desktop/HSE cpp/sharedPtr/cmake-build-debug/CMakeFiles/sharedPtr.dir
-/Users/oleg_sfn/Desktop/HSE cpp/sharedPtr/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/oleg_sfn/Desktop/HSE cpp/sharedPtr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
