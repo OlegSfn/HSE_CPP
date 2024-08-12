@@ -1,0 +1,20 @@
+# ninja log v5
+2	239	1718446629757440693	CMakeFiles/BigInteger.dir/main.cpp.o	bcea82268f3eda76
+2	494	1718446744555351892	CMakeFiles/BigInteger.dir/big_integer.cpp.o	8bba90ff54eb8fd1
+0	45	1718446802170012780	build.ninja	40b1cd9f6a88f22b
+495	582	1718446744643616023	BigInteger	e6e4615825893c7f
+1	2421	1718446796291485254	CMakeFiles/BigInteger.dir/big_integer_test.cpp.o	81dd691406d8b086
+3	421	1718446837735599881	CMakeFiles/BigInteger.dir/big_integer.cpp.o	8bba90ff54eb8fd1
+421	535	1718446837847593566	BigInteger	f522bf8eaba20011
+3	507	1718446932307782877	CMakeFiles/BigInteger.dir/big_integer.cpp.o	8bba90ff54eb8fd1
+507	613	1718446932414401022	BigInteger	f522bf8eaba20011
+3	532	1718447284295310214	CMakeFiles/BigInteger.dir/big_integer.cpp.o	8bba90ff54eb8fd1
+532	653	1718447284413093647	BigInteger	f522bf8eaba20011
+3	504	1718447421342846715	CMakeFiles/BigInteger.dir/big_integer.cpp.o	8bba90ff54eb8fd1
+504	602	1718447421437692676	BigInteger	f522bf8eaba20011
+10	534	1718447557712281309	CMakeFiles/BigInteger.dir/big_integer.cpp.o	8bba90ff54eb8fd1
+534	639	1718447557815235682	BigInteger	f522bf8eaba20011
+2	518	1718447614888044770	CMakeFiles/BigInteger.dir/big_integer.cpp.o	8bba90ff54eb8fd1
+518	633	1718447615000933906	BigInteger	f522bf8eaba20011
+2	522	1718447655773856564	CMakeFiles/BigInteger.dir/big_integer.cpp.o	8bba90ff54eb8fd1
+522	627	1718447655874979753	BigInteger	f522bf8eaba20011

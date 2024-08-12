@@ -1,0 +1,3 @@
+/Users/oleg_sfn/CLionProjects/Geometry/cmake-build-debug/CMakeFiles/Geometry.dir
+/Users/oleg_sfn/CLionProjects/Geometry/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/oleg_sfn/CLionProjects/Geometry/cmake-build-debug/CMakeFiles/rebuild_cache.dir
